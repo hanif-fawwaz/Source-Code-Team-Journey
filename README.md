@@ -80,7 +80,3 @@ Kode utama disediakan dalam file `loker_man_brebes.ino`. Berikut adalah gambaran
 - Pastikan semua koneksi aman dan benar.
 - Periksa kredensial WiFi dan pastikan jaringan dapat dijangkau.
 - Verifikasi token bot Telegram dan ID chat.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT.
