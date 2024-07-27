@@ -1,5 +1,5 @@
-
-# Sistem Manajemen Loker
+# The Cubes
+## Kotak Penyimpanan Cerdas Berbasis Iot & AI
 
 Proyek ini adalah Sistem Manajemen Loker yang menggunakan mikrokontroler ESP32. Proyek ini mengintegrasikan WiFi, bot Telegram, sensor sidik jari, sensor getaran, relay untuk kunci pintu, dan layar LCD.
 
