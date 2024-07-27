@@ -7,7 +7,7 @@ Proyek ini adalah Sistem Manajemen Loker yang menggunakan mikrokontroler ESP32. 
 
 - **Konektivitas WiFi**: Terhubung ke jaringan WiFi.
 - **Bot Telegram**: Mengirim dan menerima pesan melalui bot Telegram.
-- **Sensor Sidik Jari**: Untuk otentikasi pengguna.
+- **Sensor Sidik Jari**: Untuk identifikasi pengguna.
 - **Sensor Getaran**: Mendeteksi gangguan.
 - **Relay**: Mengontrol kunci pintu.
 - **Layar LCD**: Menyediakan antarmuka pengguna.
